@@ -1,0 +1,11 @@
+C:\Users\kolev\source\repos\RecursionHW-Ex3\RecursionHW-Ex3\bin\Debug\netcoreapp3.0\RecursionHW-Ex3.exe
+C:\Users\kolev\source\repos\RecursionHW-Ex3\RecursionHW-Ex3\bin\Debug\netcoreapp3.0\RecursionHW-Ex3.deps.json
+C:\Users\kolev\source\repos\RecursionHW-Ex3\RecursionHW-Ex3\bin\Debug\netcoreapp3.0\RecursionHW-Ex3.runtimeconfig.json
+C:\Users\kolev\source\repos\RecursionHW-Ex3\RecursionHW-Ex3\bin\Debug\netcoreapp3.0\RecursionHW-Ex3.runtimeconfig.dev.json
+C:\Users\kolev\source\repos\RecursionHW-Ex3\RecursionHW-Ex3\bin\Debug\netcoreapp3.0\RecursionHW-Ex3.dll
+C:\Users\kolev\source\repos\RecursionHW-Ex3\RecursionHW-Ex3\bin\Debug\netcoreapp3.0\RecursionHW-Ex3.pdb
+C:\Users\kolev\source\repos\RecursionHW-Ex3\RecursionHW-Ex3\obj\Debug\netcoreapp3.0\RecursionHW-Ex3.csprojAssemblyReference.cache
+C:\Users\kolev\source\repos\RecursionHW-Ex3\RecursionHW-Ex3\obj\Debug\netcoreapp3.0\RecursionHW-Ex3.AssemblyInfoInputs.cache
+C:\Users\kolev\source\repos\RecursionHW-Ex3\RecursionHW-Ex3\obj\Debug\netcoreapp3.0\RecursionHW-Ex3.AssemblyInfo.cs
+C:\Users\kolev\source\repos\RecursionHW-Ex3\RecursionHW-Ex3\obj\Debug\netcoreapp3.0\RecursionHW-Ex3.dll
+C:\Users\kolev\source\repos\RecursionHW-Ex3\RecursionHW-Ex3\obj\Debug\netcoreapp3.0\RecursionHW-Ex3.pdb
